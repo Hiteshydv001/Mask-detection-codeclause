@@ -54,7 +54,7 @@ Evaluate the trained model on the validation and test datasets using metrics lik
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/Hiteshydv001/Mask-detection-codeclause.git
 ```
 
 Go to the project directory
