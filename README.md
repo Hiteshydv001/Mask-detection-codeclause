@@ -13,11 +13,6 @@ Mask detection is a critical application in situations that require adherence to
 The mask detection system was trained on a labeled dataset of images and videos containing people with and without masks. The dataset includes diverse scenarios, face orientations, lighting conditions, and mask types to ensure robustness.
 
 
-## Demo
-
-Insert gif or link to demo
-
-
 
 ## Roadmap:-
 
@@ -51,7 +46,7 @@ Evaluate the trained model on the validation and test datasets using metrics lik
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Hiteshydv001/Mask-detection-codeclause/blob/main/Screenshot%20(102).png?raw=true)
 
 
 ## Run Locally
